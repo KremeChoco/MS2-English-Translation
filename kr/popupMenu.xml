@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ms2>
 	<!--Basic functions-->
 	<key id="100" name="Character Information"/>
 	<key id="101" name="Whisper"/>
-	<key id="102" name="Character Information" />
+	<key id="102" name="Character Information"/>
 	
 	<!--Party features-->
     <key id="200" name="Leave Party"/>
@@ -23,9 +23,9 @@
 	
 	<!--Other-->
 	<key id="500" name="Trade"/>
-	<key id="501" name="Report" />
+	<key id="501" name="Report"/>
 	<key id="502" name="Group Talk"/>
   <key id="503" name="Visit House"/>
   <key id="504" name="Pet Information"/>
   <key id="505" name="Pet Desummon"/>
-</ms2> 
+</ms2>
