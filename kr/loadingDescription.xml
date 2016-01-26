@@ -171,64 +171,64 @@
 	<tip id="168" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you wish to leave a party, \nyou can type /pleave."/>
 	<tip id="169" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Create a guild by pressing the G key."/>
 	<tip id="170" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Create a Guild with like-minded friends."/>
-	<tip id="171" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="See all my Guild Guild and the Guild trophy trophy is the totality."/>
-	<tip id="172" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000001$In the Hall of flags \nThe Guild # 1 rank, personal trophy No. 1 trophy, the Guild # 1 is the battlefield."/>
-	<tip id="173" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000100$In the Hall of flags \nTrophy rank 1, 2, and 3 on the Guild's Guild mark is engraved."/>
-	<tip id="174" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000023$In the Hall of flags \nIndividual trophy rankings 1, 2, and 3 in the above profile photo engraved."/>
-	<tip id="175" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000064$In the Hall of flags \nGuild trophy and a personal trophy 1, 2, and 3 above."/>
-	<tip id="176" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000051$In the Hall of flags \nGuild Championship carving Guild marks 1, 2, and 3 above."/>
-	<tip id="177" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000217$In the Hall of flags \nGuild Championship carving Guild marks 1, 2, and 3 above."/>
-	<tip id="178" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Hall of Fame flag rank is updated once a day."/>
-	<tip id="179" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you investigate the flag of honor more in the view, you can see a ranking mate."/>
-	<tip id="180" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The Guild reward depending on the outcome of the Championship $item:90000006$ You can get."/>
-	<tip id="181" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Listens for the '/Guild invite character names'If you enter a\nThe name has been entered, you can invite them to the Guild I belong to the character."/>
-	<tip id="182" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000620$ $map:02000001$The battle of equipment trader."/>
-	<tip id="183" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000626$ $map:02000001$Mounts of the trader."/>
-	<tip id="184" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000001$Of $npc:11000620$And $npc:11000626$As to the\nIf you want to purchase the item (s) $item:90000006$ Required."/>
-	<tip id="185" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000508$ Popular for several reasons."/>
-	<tip id="186" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000203$The blacksmith in $npc:11000508$ The item stronger."/>
-	<tip id="187" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The crowd tried to get Chan which fails, the device can be damaged\nDamaged equipment is no longer being Chan cannot update."/>
-	<tip id="188" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="At the time of the battle with other players, which is the effect of increased equipment calibration with Chan."/>
+	<tip id="171" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The guild's trophy is the sum of all member's trophies in the guild"/>
+	<tip id="172" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="In the Hall of Flags of $map:02000001$\nShows rank 1 of guild trophy, personal trophy, and guild battlefield."/>
+	<tip id="173" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="In the Hall of Flags of $map:02000100$\n Shows the guild marks of guild trophies ranked 1, 2, and 3."/>
+	<tip id="174" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="In the Hall of Flags of $map:02000023$\n Shows the player's profile pic of the 3 top ranked trophy holders."/>
+	<tip id="175" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="In the Hall of Flags of $map:02000064$\n Shows the guild and individual trophies of the top 3."/>
+	<tip id="176" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="In the Hall of Flags of $map:02000051$\n Shows the guild marks of the top 3 guild championship."/>
+	<tip id="177" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="In the Hall of Flags of $map:02000217$\n Shows the guild marks of the top 3 guild championship."/>
+	<tip id="178" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The Hall of Flags rankings update once a day."/>
+	<tip id="179" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you interact with the flags on the Hall of Flags, you can pull up Maview to view more information."/>
+	<tip id="180" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Depending on your guild results of the Guild Championship, you can receive $item:90000006$."/>
+	<tip id="181" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="By entering '/ginvite CharacterName' \nYou can invite a player into your guild."/>
+	<tip id="182" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000620$ in $map:02000001$ is a battle equipment trader."/>
+	<tip id="183" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000626$ in $map:02000001$ is a mount trader."/>
+	<tip id="184" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000001$'s $npc:11000620$ and $npc:11000626$\naccept only $item:90000006$ as currency."/>
+	<tip id="185" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000508$ is popular for several reasons."/>
+	<tip id="186" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Blacksmith $npc:11000508$ in $map:02000203$ can make your items stronger."/>
+	<tip id="187" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If enhancing your weapon fails, your equipment might come out as damaged.\nDamaged equipment cannot be enhanced any further."/>
+	<tip id="188" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Enhancing your equipment can prove to be effective in combat with others."/>
 	<tip id="189" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000511$ Iron only sunny."/>
-	<tip id="190" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000511$ Holding for the Shu Avry body mafia daughter."/>
-	<tip id="191" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000511$To $item:40100023$ If you leave \nShe replaced them with precious antiques taken from the House."/>
-	<tip id="192" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Today $npc:11000511$Maids of meiling, which is $item:40100023$ Interchangeable equipment package."/>
-	<tip id="193" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:65000001$The level 1 characters:1You can emulate your skills as a."/>
-	<tip id="194" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:65000001$The winners of the new Challenger packs a."/>
-	<tip id="195" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:65000002$A maximum of ten characters, you can emulate your skills."/>
-	<tip id="196" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="What's happening in the world, check out the new news wonder if Mather views."/>
-	<tip id="197" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="NPC, For a detailed description of an item extracted, Monster, \nCheck out the view, mate."/>
-	<tip id="198" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="World-wide real estate market wonder if \nCheck out the view, mate."/>
-	<tip id="199" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="This inconvenience to the other characters if you have a report."/>
-	<tip id="200" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you do not want to see the images come up on the scoreboard \nRight click on the scoreboard."/>
-	<tip id="201" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="A nasty thing to say when you report a person's chat \nWhere is handled those who chat since the blinds."/>
-	<tip id="202" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you report an unpleasant Billboard image, profile images \nSince the image is handled those blinds."/>
-	<tip id="203" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000514$ So far, the only one you can also jailbreak did not suffer."/>
-	<tip id="204" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000514$Give bail to jail can be released \nRumor has it, but the fact that it wasn't OK."/>
-	<tip id="205" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Note the strong penalties received a false report."/>
-	<tip id="206" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you repeatedly to damage others, Velma's judgment."/>
-	<tip id="207" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Velma received the judgment of chat, UGC Wi-Fi is limited."/>
-	<tip id="208" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you have no reflection in the prison station, Velma's judgment in\nYou can escape more quickly."/>
-	<tip id="209" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you make a false report of false self, you can go to jail."/>
-	<tip id="210" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000062$In the $npc:11000585$ Had a tour of the prison."/>
-	<tip id="211" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Shadow world is distorted spacetime breaks the dark world."/>
-	<tip id="212" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="A break through the shadow world hidden all over the world is rumored."/>
-	<tip id="213" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Shadow, you can investigate the monument distorted spacetime may go through the cracks."/>
-	<tip id="214" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Wrath of the gods in the world only to shadow the shields pulryeoseo \nYou can emulate the right skills with other characters."/>
-	<tip id="215" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Invite your friends or Guild and group conversations."/>
-	<tip id="216" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000216$The new class of items over the deal."/>
-	<tip id="217" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The black crusade is $map:02000216$ The fact that it is an open secret that operates."/>
-	<tip id="218" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Made in the name of the profile when the Master Maid of the title can be set."/>
-	<tip id="219" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Made on behalf of the House, it is not possible to give."/>
-	<tip id="220" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000790$, $npc:11000792$Like Alchemy, this specialty is made."/>
-	<tip id="221" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000770$, $npc:11000780$There are also cooking skills is like a maid."/>
-	<tip id="222" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000787$, $npc:11000779$There are also specialty drinks like manufacturing is made."/>
-	<tip id="223" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000789$, $npc:11000512$The specialty necklace production is like a maid."/>
-	<tip id="224" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000777$, $npc:11000544$This specialty is made like a ring."/>
-	<tip id="225" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Maid $npc:11000770$ Got their best dish is the speciality grilled eel."/>
+	<tip id="190" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000511$ is the only daughter of the Suavrich family."/>
+	<tip id="191" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you give $item:40100023$ to $npc:11000511$\nShe will give you a precious antique from her home."/>
+	<tip id="192" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000511$ wants $item:40100023$. She will exchange you them for equipment packages."/>
+	<tip id="193" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="At $map:65000001$, you can compete 1:1 with other players."/>
+	<tip id="194" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="At $map:65000001$, the winner will go up against new challengers."/>
+	<tip id="195" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="At $map:65000002$, only a maximum of 10 other people can compete."/>
+	<tip id="196" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Find out whats happening in the world today by checking out the news in Maview."/>
+	<tip id="197" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="For a detail description of items, monsters, and NPCs \n Check out Maview."/>
+	<tip id="198" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Check out the world's real-estate market \Simply view it by Maview."/>
+	<tip id="199" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Please report any player if they provide an inconvienient experience for you."/>
+	<tip id="200" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you do not wish to view a image on a bulletin board \nRight click on the bulletin board."/>
+	<tip id="201" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="When you report a user's chat \nTheir chat will become censored to you."/>
+	<tip id="202" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="When you report a user's profile image or bulletin board \nThe image will become censored to you."/>
+	<tip id="203" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Under $npc:11000514$, there has not been one jailbreak so far."/>
+	<tip id="204" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can give bail to $npc:11000514$ to get out of jail. \nHowever, this has only been a rumor."/>
+	<tip id="205" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You will be penalized strongly for a false report."/>
+	<tip id="206" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Constantly causing an inconvienience will inflict Velma's judgement to you."/>
+	<tip id="207" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="With Velma's judgement, you cannot chat, UGC, etc."/>
+	<tip id="208" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you put effort in prison while having Velma's judgement\nYou can get released quicker."/>
+	<tip id="209" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you make a false report, you can go to jail."/>
+	<tip id="210" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Take a tour of the prison by visiting $npc:11000585$ in $map:02000062$."/>
+	<tip id="211" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Shadow world is  a distorted dark world in a break of space."/>
+	<tip id="212" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="There are rumors that there are breaks to the Shadow World all over the world."/>
+	<tip id="213" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Investigate the monument to go through the distorted space and into the Shadow World."/>
+	<tip id="214" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you examine an angered altar in the Shadow World, your shield will disappear. \nYou will then be able to fight other players."/>
+	<tip id="215" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Invite your friends and guild members into a group conversation."/>
+	<tip id="216" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="In $map:02000216$ you can trade items."/>
+	<tip id="217" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The Black Crusade operates the open secret of $map:02000216$."/>
+	<tip id="218" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can set the maid's name and title through their profile."/>
+	<tip id="219" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="It is not possible to give maids housework."/>
+	<tip id="220" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000790$ and $npc:11000792$ maids specialize in alchemy."/>
+	<tip id="221" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000770$ and $npc:11000780$ maids have cooking skills."/>
+	<tip id="222" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000787$ and $npc:11000779$ maids make drinks."/>
+	<tip id="223" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000789$ and $npc:11000512$ maids specialize in producing necklaces."/>
+	<tip id="224" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000777$ and $npc:11000544$ maids specialize in producing rings."/>
+	<tip id="225" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Maid $npc:11000770$'s specialty dish is grilled eel."/>
 	<tip id="226" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Maid $npc:11000786$To $npc:11000015$ Tokyo's target."/>
 	<tip id="227" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Maid $npc:11000777$ $npc:11000075$Pet cat Inn $npc:11000708$It is a descendant of."/>
-	<tip id="228" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Butler $npc:11000787$ $map:02000100$Which never worked as a bartender at the bar."/>
+	<tip id="228" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Butler $npc:11000787$ worked as a bartender at bars in $map:02000100$."/>
 	<tip id="229" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Butler $npc:11000791$The thing is full of stories of\nHe picked up all kinds of rumors, and the boy heard the injured."/>
 	<tip id="230" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Butler $npc:11000790$ Never to believe fate is the look."/>
 	<tip id="231" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Making a maid or Butler in every specialty."/>
